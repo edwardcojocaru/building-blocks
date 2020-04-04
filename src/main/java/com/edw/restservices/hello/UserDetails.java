@@ -1,4 +1,4 @@
-package com.edw.restservices.controllers;
+package com.edw.restservices.hello;
 
 /**
  * @author Eduard.Cojocaru
